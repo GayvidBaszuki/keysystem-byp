@@ -1,5 +1,5 @@
 export default function handler(req, res) {
-    const validKeys = ["YOUR-KEY-1", "YOUR-KEY-2", "YOUR-KEY-3"];
+    const validKeys = ["realsigmav5", "lwesd", "goguardiansucks..."];
 
     // CORS headers
     res.setHeader('Access-Control-Allow-Origin', '*');  // Allow all origins (can replace * with specific domain)
